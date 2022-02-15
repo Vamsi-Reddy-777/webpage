@@ -1,0 +1,36 @@
+<div class="accordion" id="accordionExample">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="heading6">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
+                <div class="row">
+                  <div class="col-sm-6">
+                    <img src="avengers.jpg" alt="Avengers" width="250" height="300">
+                  </div>
+                  <div class="col-sm-6">
+                    <h1>The Avengers</h1><br>
+                    <h5>Released on 27 April 2012</h5>
+                    <h6>IMDB Rating:8/10</h6>
+                    <h6><b>Cast</b>:Chris Evans, Robert Downey Jr., Samuel L. Jackson, Scarlett Johansson, Chris Hemsworth, Mark Ruffalo, Jeremy Renner, Stan Lee, Tom Hiddleston</h6>
+                  </div>
+                </div>
+            </button>
+          </h2>
+          <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+              <div class="row">
+                <div class="col-sm-6">
+                  <iframe width="250" height="300" src="www.youtube.com/embed/eOrNdBpGMv8"></iframe>
+                </div>
+                <div class="col-sm-6">
+                  <h3>Description</h3>
+                  <p>
+                    Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. His squad of superheroes put their minds together to accomplish the task.
+                  </p>
+                  <h5>Watch online on </h5>
+                  <a href="https://www.hotstar.com/in/movies/marvels-the-avengers/1660000015">Hotstar</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
